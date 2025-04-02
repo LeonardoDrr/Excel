@@ -1,6 +1,6 @@
 {
   "1": {"ID": "1", "Nombre": "Juan", "Apellido": "Perez", "Cedula": "12345678", "Area": "Ventas"},
   "2": {"ID": "2", "Nombre": "Maria", "Apellido": "Lopez", "Cedula": "87654321", "Area": "Administración"}
-  // Agrega aquí los 45 usuarios registrados
+ 
 }
 
